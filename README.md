@@ -1,13 +1,6 @@
-# simple-to-do-list
-A responsive To-Do List App built with HTML, CSS, and JavaScript featuring add, edit, delete, and localStorage support.
+# 📝 Simple To-Do List App
 
-
-📝 Simple To-Do List App
-
-  
-
-A responsive To-Do List App built with HTML, CSS, and JavaScript that helps manage daily tasks with simple and clean UI.
-
+  A responsive To-Do List App built with HTML, CSS, and JavaScript that helps manage daily tasks with simple and clean UI.
 
 
 🚀 Features
@@ -24,14 +17,10 @@ Smooth animations and hover effects
 
 
 
-
-
 🛠 Tech Stack
 
 Frontend: HTML, CSS, JavaScript
 Storage: Browser LocalStorage
-
-
 
 
 📂 Files
@@ -39,8 +28,6 @@ Storage: Browser LocalStorage
 index.html     →  Structure  
 style.css      →  Styling & layout  
 script.js      →  App logic
-
-
 
 
 💡 Learning Outcomes
@@ -53,8 +40,6 @@ Building responsive UI layouts
 
 
 
-
-
 📌 Future Enhancements
 
 Add task categories or priorities
@@ -64,8 +49,6 @@ Search/filter tasks
 Dark mode toggle
 
 Deploy on GitHub Pages
-
-
 
 
 
