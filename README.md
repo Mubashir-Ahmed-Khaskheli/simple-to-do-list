@@ -4,7 +4,7 @@
 
 
 
-#🚀 Features
+🚀 Features
 
 Add, edit, delete tasks
 
@@ -19,14 +19,14 @@ Smooth animations and hover effects
 
 
 
-#🛠 Tech Stack
+🛠 Tech Stack
 
 Frontend: HTML, CSS, JavaScript
 Storage: Browser LocalStorage
 
 
 
-#📂 Files
+📂 Files
 
 index.html     →  Structure  
 style.css      →  Styling & layout  
@@ -34,7 +34,7 @@ script.js      →  App logic
 
 
 
-#💡 Learning Outcomes
+💡 Learning Outcomes
 
 DOM manipulation & event handling
 
@@ -45,7 +45,7 @@ Building responsive UI layouts
 
 
 
-#📌 Future Enhancements
+📌 Future Enhancements
 
 Add task categories or priorities
 
@@ -58,7 +58,7 @@ Deploy on GitHub Pages
 
 
 
-#👨‍💻 Author
+👨‍💻 Author
 
 Mubashir Ahmed Khaskheli
 Software Engineering Sophomore – MUET (Class of 2028)
