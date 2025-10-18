@@ -1,10 +1,6 @@
 # simple-to-do-list
 A responsive To-Do List App built with HTML, CSS, and JavaScript featuring add, edit, delete, and localStorage support.
-Got it ✅ Mubashir — here’s a short, clean, and professional version of your README (perfect for a beginner project repository).
-It keeps all the important details but in a concise and polished format.
 
-
----
 
 📝 Simple To-Do List App
 
